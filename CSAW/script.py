@@ -1,4 +1,3 @@
-#author-Chitrarth Tomar
 from socket import *
 def tell(coin,price):
     ls = coin.keys()
